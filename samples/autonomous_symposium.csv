@@ -1,0 +1,11 @@
+name,email,role,track,dietary_req,company
+Dr. Elena Vance,sourish25maity@gmail.com,Speaker,Computer Vision,Vegan,Waymo
+Marcus Brody,marcus.brody@example.com,Speaker,Robotic Systems,None,Boston Dynamics
+Sarah Connor,s.connor@example.com,Sponsor,Safety & Ethics,Gluten-free,Skynet Labs
+David Bowman,d.bowman@example.com,Attendee,Computer Vision,Vegetarian,HAL Inc.
+Ellen Ripley,ripley@example.com,Attendee,Robotic Systems,None,Weyland-Yutani
+Arthur Dent,dent@example.com,Attendee,Safety & Ethics,Vegan,Heart of Gold
+Tony Stark,tony@stark.com,Speaker,Robotic Systems,Gluten-free,Stark Industries
+Bruce Wayne,bruce@wayne.com,Sponsor,Safety & Ethics,Paleo,Wayne Enterprizes
+Peter Parker,peter@dailybugle.com,Attendee,Computer Vision,None,Empire State Univ
+Diana Prince,diana@themyscira.com,Attendee,Safety & Ethics,Vegan,Justice League

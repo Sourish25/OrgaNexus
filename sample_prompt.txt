@@ -1,0 +1,13 @@
+# ORGANEXUS BASIC MODE SAMPLE PROMPTS 🚀
+
+## 1. Technical Hackathon (Detailed)
+"I'm hosting an AI Hackathon at NIT Silchar from March 14-21 (Virtual) and March 26-27 (In-person) for 200 attendees. Budget is $1000. Keynote speakers are Jane Doe from Google and John Smith from OpenAI. We need a detailed schedule, 3 social media posts (Twitter, LinkedIn, Instagram), and personalized emails for the attendees."
+
+## 2. Professional Corporate Seminar
+"Organizing a 'Future of Fintech' seminar in Mumbai on April 5th. Expecting 100 high-profile executives. Need a half-day schedule from 9 AM to 2 PM, catered lunch, and promotional LinkedIn posts. Budget is $5,000. Focus on security and blockchain trends."
+
+## 3. Cultural Music Festival
+"Planning 'Harmony Fest 2026', a 2-day outdoor music festival in Bangalore, June 10-11. We need a stage lineup for 10 local bands, food truck logistics for 2000 fans, and aggressive Instagram hype posts. Budget is $15k. Include a VIP lounge and merchandise tent in the logistics."
+
+## 4. Startup Pitch Night
+"Hosting a 'Seed Stage Pitch Night' for 15 startups on May 20th in Delhi. Each startup gets 5 minutes. Need a tight 3-hour schedule, investor invitation emails, and Twitter updates for the event. Budget is minimal, mostly for venue and drinks."

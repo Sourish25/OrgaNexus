@@ -1,0 +1,18 @@
+Autonomous Vehicles and Robotics Symposium (AVRS 2026)
+
+We are hosting a 2-Day Symposium on Autonomous Vehicles and Robotics Systems focusing on real-time Safety & Ethics and Computer Vision modules.
+Date: May 18-19, 2026
+Venue: Grand Hall, Tech Park (Main stage), Room B (Vision Track), Room C (Robots Track).
+Budget: $50,000 (Sponsors: Skynet Labs, Wayne Enterprises).
+
+AGENDA REQUIREMENTS:
+- DAY 1: Opening Keynote by Tony Stark regarding Robotic Systems. Followed by a Panel discussion on Ethical AI.
+- DAY 2: Morning workshop regarding Skynet Lab's new sensors. Closing session with Waymo's Dr. Vance on Computer Vision.
+
+GOALS FOR AI AGENTS:
+1. Generate an accurate 2-Day Schedule splitting speakers to their corresponding Tracks (Computer Vision goes to Room B; Robotic Systems goes to Room C).
+2. Write individual Speaker Invitation emails and scheduling updates.
+3. Schedule Twitter and LinkedIn announcements tagging the companies directly (Waymo, Boston Dynamics, Skynet).
+
+SAMPLE DRIFT PROMPT TO TEST LATER:
+"The main auditorium is temporarily unavailable for Day 1 morning due to a power outage. Move all Day 1 panels to Room B and advise attendees about the shift."
